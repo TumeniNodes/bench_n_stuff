@@ -52,5 +52,5 @@ The mod will automatically create the new variants and crafting recipes for them
 
 ![Just Chillin'](screenshots/just_chillin.png)
 
-![Inventory](screenshots/inventory.png)
+![Inventory](screenshots/Inventory & Crafting.png)
 
